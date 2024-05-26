@@ -1,0 +1,19 @@
+{
+  "name": "aliza-calculator_134",
+  "version": "1.0.0",
+  "description": "simple calculator with typescript,Node js , and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "main.js",
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aliza khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
